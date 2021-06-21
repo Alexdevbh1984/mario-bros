@@ -4,7 +4,7 @@
 
 
 
-## Cerca de
+
 ** Nota: o código é um pouco confuso. Vive com isso.
 No momento em que o estava escrevendo, eu era um iniciante, então estava usando
 
