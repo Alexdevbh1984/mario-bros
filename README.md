@@ -25,3 +25,4 @@ pip install pytmx
 `` `
 
  Em seguida, execute 'Next / main.py'.
+https://www.youtube.com/watch?v=TSTTgRofaOU&t=12s
